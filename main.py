@@ -1,6 +1,6 @@
 import argparse
 from utils import load_config
-from scripts import prepare_the_run_B5_P1, prepare_the_run_B5_P2
+from scripts import prepare_the_run_B6_P1, prepare_the_run_B6_P2
 from utils import Trainer, Tester
 from AnnotationsExtraction.Annotations import BoxInfo
 
@@ -14,9 +14,7 @@ if __name__ == "__main__":
     parser.add_argument("--cp", type=str, default=None, help="path of the Baseline 3 model")
     parser.add_argument("--cpp", type=str, default=None, help="path of the first part of the baseline for the second part")
     parser.add_argument("--pt", type=str, default=None, help="path of the model to use it in testing")
-
-    parser.add_argument("--cont", type=str, default=None, help="path of the model to use in continouing")
-
+    parser.add_argument("--cont", type=str, default=None, help="path of the model to continue training")
 
     args = parser.parse_args()
 
@@ -31,9 +29,9 @@ if __name__ == "__main__":
 
 
     if p == "part1":
-        model, device, dataloaders, optimizer, scheduler, scheduler_type, criterion, scaler, epochs, config, train_dataset = prepare_the_run_B5_P1(config, cp)
+        model, device, dataloaders, optimizer, scheduler, scheduler_type, criterion, scaler, epochs, config, train_dataset = prepare_the_run_B6_P1(config, cp)
     elif p == "part2":
-        model, device, dataloaders, optimizer, scheduler, scheduler_type, criterion, scaler, epochs, config, train_dataset = prepare_the_run_B5_P2(config, cpp)
+        model, device, dataloaders, optimizer, scheduler, scheduler_type, criterion, scaler, epochs, config, train_dataset = prepare_the_run_B6_P2(config, cpp)
 
     
     if t == "train":
