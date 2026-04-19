@@ -1,0 +1,187 @@
+2025-11-10 17:08:17,244 [INFO] 🚀 Starting experiment: Baseline Three Part One
+2025-11-10 17:08:17,244 [INFO] 📦 Device: cuda
+2025-11-10 17:08:17,245 [INFO] 🔢 Random seed: 42
+2025-11-10 17:08:17,246 [INFO] 
+🚀 Epoch 1/15
+2025-11-10 17:08:25,443 [INFO] [Epoch 0 | Batch 0/1808] Loss: 2.3049 | Acc: 7.81%
+2025-11-10 17:09:10,750 [INFO] [Epoch 0 | Batch 50/1808] Loss: 1.1250 | Acc: 63.94%
+2025-11-10 17:10:00,116 [INFO] [Epoch 0 | Batch 100/1808] Loss: 1.1363 | Acc: 68.08%
+2025-11-10 17:10:46,334 [INFO] [Epoch 0 | Batch 150/1808] Loss: 1.0692 | Acc: 70.25%
+2025-11-10 17:11:33,470 [INFO] [Epoch 0 | Batch 200/1808] Loss: 1.0785 | Acc: 71.63%
+2025-11-10 17:12:18,420 [INFO] [Epoch 0 | Batch 250/1808] Loss: 0.9558 | Acc: 72.53%
+2025-11-10 17:13:03,740 [INFO] [Epoch 0 | Batch 300/1808] Loss: 1.0436 | Acc: 73.27%
+2025-11-10 17:13:48,340 [INFO] [Epoch 0 | Batch 350/1808] Loss: 0.9748 | Acc: 73.96%
+2025-11-10 17:14:33,524 [INFO] [Epoch 0 | Batch 400/1808] Loss: 1.0143 | Acc: 74.39%
+2025-11-10 17:15:18,482 [INFO] [Epoch 0 | Batch 450/1808] Loss: 0.9446 | Acc: 74.82%
+2025-11-10 17:16:04,125 [INFO] [Epoch 0 | Batch 500/1808] Loss: 0.9668 | Acc: 75.24%
+2025-11-10 17:16:47,674 [INFO] [Epoch 0 | Batch 550/1808] Loss: 0.9631 | Acc: 75.54%
+2025-11-10 17:17:32,793 [INFO] [Epoch 0 | Batch 600/1808] Loss: 0.9663 | Acc: 75.91%
+2025-11-10 17:18:16,447 [INFO] [Epoch 0 | Batch 650/1808] Loss: 1.0205 | Acc: 76.18%
+2025-11-10 17:19:00,888 [INFO] [Epoch 0 | Batch 700/1808] Loss: 0.9682 | Acc: 76.43%
+2025-11-10 17:19:44,093 [INFO] [Epoch 0 | Batch 750/1808] Loss: 0.9291 | Acc: 76.63%
+2025-11-10 17:20:28,405 [INFO] [Epoch 0 | Batch 800/1808] Loss: 0.9442 | Acc: 76.89%
+2025-11-10 17:21:12,099 [INFO] [Epoch 0 | Batch 850/1808] Loss: 0.9786 | Acc: 77.06%
+2025-11-10 17:21:57,146 [INFO] [Epoch 0 | Batch 900/1808] Loss: 0.8461 | Acc: 77.27%
+2025-11-10 17:22:41,322 [INFO] [Epoch 0 | Batch 950/1808] Loss: 0.8952 | Acc: 77.43%
+2025-11-10 17:23:27,385 [INFO] [Epoch 0 | Batch 1000/1808] Loss: 0.8441 | Acc: 77.64%
+2025-11-10 17:24:10,809 [INFO] [Epoch 0 | Batch 1050/1808] Loss: 0.9296 | Acc: 77.79%
+2025-11-10 17:24:55,944 [INFO] [Epoch 0 | Batch 1100/1808] Loss: 0.9028 | Acc: 77.91%
+2025-11-10 17:25:39,908 [INFO] [Epoch 0 | Batch 1150/1808] Loss: 0.9231 | Acc: 78.03%
+2025-11-10 17:26:24,994 [INFO] [Epoch 0 | Batch 1200/1808] Loss: 0.9490 | Acc: 78.15%
+2025-11-10 17:27:09,083 [INFO] [Epoch 0 | Batch 1250/1808] Loss: 0.8716 | Acc: 78.25%
+2025-11-10 17:27:54,564 [INFO] [Epoch 0 | Batch 1300/1808] Loss: 0.9521 | Acc: 78.36%
+2025-11-10 17:28:37,636 [INFO] [Epoch 0 | Batch 1350/1808] Loss: 0.7988 | Acc: 78.46%
+2025-11-10 17:29:21,762 [INFO] [Epoch 0 | Batch 1400/1808] Loss: 0.8790 | Acc: 78.55%
+2025-11-10 17:30:04,565 [INFO] [Epoch 0 | Batch 1450/1808] Loss: 0.9932 | Acc: 78.66%
+2025-11-10 17:30:48,523 [INFO] [Epoch 0 | Batch 1500/1808] Loss: 1.0610 | Acc: 78.72%
+2025-11-10 17:31:31,464 [INFO] [Epoch 0 | Batch 1550/1808] Loss: 0.9392 | Acc: 78.83%
+2025-11-10 17:32:15,276 [INFO] [Epoch 0 | Batch 1600/1808] Loss: 0.9324 | Acc: 78.94%
+2025-11-10 17:32:57,073 [INFO] [Epoch 0 | Batch 1650/1808] Loss: 0.9043 | Acc: 79.03%
+2025-11-10 17:33:41,021 [INFO] [Epoch 0 | Batch 1700/1808] Loss: 0.9506 | Acc: 79.12%
+2025-11-10 17:34:23,378 [INFO] [Epoch 0 | Batch 1750/1808] Loss: 0.9253 | Acc: 79.20%
+2025-11-10 17:35:06,943 [INFO] [Epoch 0 | Batch 1800/1808] Loss: 0.8664 | Acc: 79.28%
+2025-11-10 17:35:10,724 [INFO] ✅ Epoch 0 | Train Loss: 0.9726 | Accuracy: 79.29%
+2025-11-10 17:48:42,551 [INFO] 📊 Epoch 0 | Val Loss: 1.0070 | Accuracy: 77.74% | F1: 0.7558
+2025-11-10 17:48:43,425 [INFO] 🌟 New best model saved with 77.74% accuracy!
+2025-11-10 17:48:44,065 [INFO] 📈 Saved metrics plot to /kaggle/working/Group-Activity-Recognition/src/Outputs/Part1/Metrics_Epoch/metrics_epoch_0.png
+2025-11-10 17:48:44,065 [INFO] 
+🚀 Epoch 2/15
+2025-11-10 17:48:48,203 [INFO] [Epoch 1 | Batch 0/1808] Loss: 0.8830 | Acc: 82.81%
+2025-11-10 17:49:35,879 [INFO] [Epoch 1 | Batch 50/1808] Loss: 1.0615 | Acc: 82.34%
+2025-11-10 17:50:21,178 [INFO] [Epoch 1 | Batch 100/1808] Loss: 0.8065 | Acc: 83.13%
+2025-11-10 17:51:05,469 [INFO] [Epoch 1 | Batch 150/1808] Loss: 0.8949 | Acc: 83.30%
+2025-11-10 17:51:50,269 [INFO] [Epoch 1 | Batch 200/1808] Loss: 0.8594 | Acc: 83.31%
+2025-11-10 17:52:33,673 [INFO] [Epoch 1 | Batch 250/1808] Loss: 0.8879 | Acc: 83.27%
+2025-11-10 17:53:18,447 [INFO] [Epoch 1 | Batch 300/1808] Loss: 0.7709 | Acc: 83.31%
+2025-11-10 17:54:01,518 [INFO] [Epoch 1 | Batch 350/1808] Loss: 0.8004 | Acc: 83.38%
+2025-11-10 17:54:45,591 [INFO] [Epoch 1 | Batch 400/1808] Loss: 0.8703 | Acc: 83.46%
+2025-11-10 17:55:28,970 [INFO] [Epoch 1 | Batch 450/1808] Loss: 0.8812 | Acc: 83.40%
+2025-11-10 17:56:13,646 [INFO] [Epoch 1 | Batch 500/1808] Loss: 0.7589 | Acc: 83.44%
+2025-11-10 17:56:55,871 [INFO] [Epoch 1 | Batch 550/1808] Loss: 0.8229 | Acc: 83.42%
+2025-11-10 17:57:40,030 [INFO] [Epoch 1 | Batch 600/1808] Loss: 0.8160 | Acc: 83.49%
+2025-11-10 17:58:22,280 [INFO] [Epoch 1 | Batch 650/1808] Loss: 0.9433 | Acc: 83.57%
+2025-11-10 17:59:06,304 [INFO] [Epoch 1 | Batch 700/1808] Loss: 0.7959 | Acc: 83.53%
+2025-11-10 17:59:49,258 [INFO] [Epoch 1 | Batch 750/1808] Loss: 0.8482 | Acc: 83.56%
+2025-11-10 18:00:33,268 [INFO] [Epoch 1 | Batch 800/1808] Loss: 0.9170 | Acc: 83.58%
+2025-11-10 18:01:15,875 [INFO] [Epoch 1 | Batch 850/1808] Loss: 0.9685 | Acc: 83.56%
+2025-11-10 18:01:59,758 [INFO] [Epoch 1 | Batch 900/1808] Loss: 0.7051 | Acc: 83.56%
+2025-11-10 18:02:42,372 [INFO] [Epoch 1 | Batch 950/1808] Loss: 0.8157 | Acc: 83.59%
+2025-11-10 18:03:26,398 [INFO] [Epoch 1 | Batch 1000/1808] Loss: 0.9604 | Acc: 83.60%
+2025-11-10 18:04:09,047 [INFO] [Epoch 1 | Batch 1050/1808] Loss: 0.8680 | Acc: 83.64%
+2025-11-10 18:04:53,133 [INFO] [Epoch 1 | Batch 1100/1808] Loss: 0.8185 | Acc: 83.66%
+2025-11-10 18:05:36,848 [INFO] [Epoch 1 | Batch 1150/1808] Loss: 0.9698 | Acc: 83.69%
+2025-11-10 18:06:21,224 [INFO] [Epoch 1 | Batch 1200/1808] Loss: 0.8510 | Acc: 83.72%
+2025-11-10 18:07:04,888 [INFO] [Epoch 1 | Batch 1250/1808] Loss: 0.7886 | Acc: 83.74%
+2025-11-10 18:07:49,740 [INFO] [Epoch 1 | Batch 1300/1808] Loss: 0.7411 | Acc: 83.77%
+2025-11-10 18:08:33,420 [INFO] [Epoch 1 | Batch 1350/1808] Loss: 0.7867 | Acc: 83.81%
+2025-11-10 18:09:18,742 [INFO] [Epoch 1 | Batch 1400/1808] Loss: 0.8713 | Acc: 83.84%
+2025-11-10 18:10:03,919 [INFO] [Epoch 1 | Batch 1450/1808] Loss: 0.7705 | Acc: 83.85%
+2025-11-10 18:10:50,023 [INFO] [Epoch 1 | Batch 1500/1808] Loss: 0.7837 | Acc: 83.87%
+2025-11-10 18:11:34,447 [INFO] [Epoch 1 | Batch 1550/1808] Loss: 0.7936 | Acc: 83.87%
+2025-11-10 18:12:20,273 [INFO] [Epoch 1 | Batch 1600/1808] Loss: 0.7830 | Acc: 83.88%
+2025-11-10 18:13:04,248 [INFO] [Epoch 1 | Batch 1650/1808] Loss: 0.8392 | Acc: 83.91%
+2025-11-10 18:13:49,181 [INFO] [Epoch 1 | Batch 1700/1808] Loss: 0.8330 | Acc: 83.93%
+2025-11-10 18:14:32,638 [INFO] [Epoch 1 | Batch 1750/1808] Loss: 0.8080 | Acc: 83.96%
+2025-11-10 18:15:17,672 [INFO] [Epoch 1 | Batch 1800/1808] Loss: 0.9124 | Acc: 84.00%
+2025-11-10 18:15:21,387 [INFO] ✅ Epoch 1 | Train Loss: 0.8552 | Accuracy: 84.00%
+2025-11-10 18:28:35,848 [INFO] 📊 Epoch 1 | Val Loss: 1.0212 | Accuracy: 77.94% | F1: 0.7561
+2025-11-10 18:28:36,684 [INFO] 🌟 New best model saved with 77.94% accuracy!
+2025-11-10 18:28:37,316 [INFO] 📈 Saved metrics plot to /kaggle/working/Group-Activity-Recognition/src/Outputs/Part1/Metrics_Epoch/metrics_epoch_1.png
+2025-11-10 18:28:37,316 [INFO] 
+🚀 Epoch 3/15
+2025-11-10 18:28:41,592 [INFO] [Epoch 2 | Batch 0/1808] Loss: 0.7019 | Acc: 91.41%
+2025-11-10 18:29:25,732 [INFO] [Epoch 2 | Batch 50/1808] Loss: 0.8354 | Acc: 87.18%
+2025-11-10 18:30:10,694 [INFO] [Epoch 2 | Batch 100/1808] Loss: 0.7731 | Acc: 87.04%
+2025-11-10 18:30:53,949 [INFO] [Epoch 2 | Batch 150/1808] Loss: 0.8482 | Acc: 86.88%
+2025-11-10 18:31:39,125 [INFO] [Epoch 2 | Batch 200/1808] Loss: 0.8401 | Acc: 86.70%
+2025-11-10 18:32:22,556 [INFO] [Epoch 2 | Batch 250/1808] Loss: 0.8049 | Acc: 86.83%
+2025-11-10 18:33:07,076 [INFO] [Epoch 2 | Batch 300/1808] Loss: 0.8032 | Acc: 86.86%
+2025-11-10 18:33:50,722 [INFO] [Epoch 2 | Batch 350/1808] Loss: 0.8433 | Acc: 86.86%
+2025-11-10 18:34:35,941 [INFO] [Epoch 2 | Batch 400/1808] Loss: 0.7984 | Acc: 86.94%
+2025-11-10 18:35:18,983 [INFO] [Epoch 2 | Batch 450/1808] Loss: 0.7400 | Acc: 86.89%
+2025-11-10 18:36:03,796 [INFO] [Epoch 2 | Batch 500/1808] Loss: 0.7883 | Acc: 86.83%
+2025-11-10 18:36:46,454 [INFO] [Epoch 2 | Batch 550/1808] Loss: 0.7251 | Acc: 86.86%
+2025-11-10 18:37:31,564 [INFO] [Epoch 2 | Batch 600/1808] Loss: 0.7877 | Acc: 86.83%
+2025-11-10 18:38:15,136 [INFO] [Epoch 2 | Batch 650/1808] Loss: 0.7756 | Acc: 86.85%
+2025-11-10 18:38:59,804 [INFO] [Epoch 2 | Batch 700/1808] Loss: 0.7101 | Acc: 86.89%
+2025-11-10 18:39:42,927 [INFO] [Epoch 2 | Batch 750/1808] Loss: 0.7939 | Acc: 86.90%
+2025-11-10 18:40:28,647 [INFO] [Epoch 2 | Batch 800/1808] Loss: 0.7109 | Acc: 86.94%
+2025-11-10 18:41:13,790 [INFO] [Epoch 2 | Batch 850/1808] Loss: 0.7465 | Acc: 86.94%
+2025-11-10 18:41:59,608 [INFO] [Epoch 2 | Batch 900/1808] Loss: 0.7022 | Acc: 86.96%
+2025-11-10 18:42:42,966 [INFO] [Epoch 2 | Batch 950/1808] Loss: 0.8278 | Acc: 86.97%
+2025-11-10 18:43:27,880 [INFO] [Epoch 2 | Batch 1000/1808] Loss: 0.7176 | Acc: 86.96%
+2025-11-10 18:44:11,048 [INFO] [Epoch 2 | Batch 1050/1808] Loss: 0.8390 | Acc: 87.01%
+2025-11-10 18:44:55,824 [INFO] [Epoch 2 | Batch 1100/1808] Loss: 0.8303 | Acc: 87.02%
+2025-11-10 18:45:38,693 [INFO] [Epoch 2 | Batch 1150/1808] Loss: 0.7832 | Acc: 87.04%
+2025-11-10 18:46:23,525 [INFO] [Epoch 2 | Batch 1200/1808] Loss: 0.7614 | Acc: 87.01%
+2025-11-10 18:47:07,160 [INFO] [Epoch 2 | Batch 1250/1808] Loss: 0.7338 | Acc: 87.07%
+2025-11-10 18:47:51,452 [INFO] [Epoch 2 | Batch 1300/1808] Loss: 0.7447 | Acc: 87.06%
+2025-11-10 18:48:35,057 [INFO] [Epoch 2 | Batch 1350/1808] Loss: 0.6850 | Acc: 87.11%
+2025-11-10 18:49:20,167 [INFO] [Epoch 2 | Batch 1400/1808] Loss: 0.7561 | Acc: 87.14%
+2025-11-10 18:50:04,675 [INFO] [Epoch 2 | Batch 1450/1808] Loss: 0.8333 | Acc: 87.20%
+2025-11-10 18:50:49,727 [INFO] [Epoch 2 | Batch 1500/1808] Loss: 0.7722 | Acc: 87.20%
+2025-11-10 18:51:33,778 [INFO] [Epoch 2 | Batch 1550/1808] Loss: 0.7137 | Acc: 87.23%
+2025-11-10 18:52:19,108 [INFO] [Epoch 2 | Batch 1600/1808] Loss: 0.6866 | Acc: 87.26%
+2025-11-10 18:53:02,823 [INFO] [Epoch 2 | Batch 1650/1808] Loss: 0.7589 | Acc: 87.29%
+2025-11-10 18:53:47,634 [INFO] [Epoch 2 | Batch 1700/1808] Loss: 0.7342 | Acc: 87.30%
+2025-11-10 18:54:30,725 [INFO] [Epoch 2 | Batch 1750/1808] Loss: 0.8281 | Acc: 87.31%
+2025-11-10 18:55:15,968 [INFO] [Epoch 2 | Batch 1800/1808] Loss: 0.6912 | Acc: 87.35%
+2025-11-10 18:55:19,907 [INFO] ✅ Epoch 2 | Train Loss: 0.7813 | Accuracy: 87.36%
+2025-11-10 19:09:02,840 [INFO] 📊 Epoch 2 | Val Loss: 1.0344 | Accuracy: 75.80% | F1: 0.7563
+2025-11-10 19:09:03,920 [INFO] 📈 Saved metrics plot to /kaggle/working/Group-Activity-Recognition/src/Outputs/Part1/Metrics_Epoch/metrics_epoch_2.png
+2025-11-10 19:09:03,920 [INFO] 
+🚀 Epoch 4/15
+2025-11-10 19:09:08,421 [INFO] [Epoch 3 | Batch 0/1808] Loss: 0.6763 | Acc: 92.97%
+2025-11-10 19:09:53,431 [INFO] [Epoch 3 | Batch 50/1808] Loss: 0.7351 | Acc: 90.01%
+2025-11-10 19:10:39,091 [INFO] [Epoch 3 | Batch 100/1808] Loss: 0.7051 | Acc: 90.13%
+2025-11-10 19:11:23,752 [INFO] [Epoch 3 | Batch 150/1808] Loss: 0.6071 | Acc: 90.63%
+2025-11-10 19:12:09,339 [INFO] [Epoch 3 | Batch 200/1808] Loss: 0.7812 | Acc: 90.43%
+2025-11-10 19:12:53,101 [INFO] [Epoch 3 | Batch 250/1808] Loss: 0.7228 | Acc: 90.39%
+2025-11-10 19:13:37,969 [INFO] [Epoch 3 | Batch 300/1808] Loss: 0.7618 | Acc: 90.37%
+2025-11-10 19:14:21,398 [INFO] [Epoch 3 | Batch 350/1808] Loss: 0.7124 | Acc: 90.32%
+2025-11-10 19:15:05,772 [INFO] [Epoch 3 | Batch 400/1808] Loss: 0.7664 | Acc: 90.31%
+2025-11-10 19:15:50,028 [INFO] [Epoch 3 | Batch 450/1808] Loss: 0.6798 | Acc: 90.30%
+2025-11-10 19:16:35,558 [INFO] [Epoch 3 | Batch 500/1808] Loss: 0.6972 | Acc: 90.34%
+2025-11-10 19:17:19,706 [INFO] [Epoch 3 | Batch 550/1808] Loss: 0.7284 | Acc: 90.39%
+2025-11-10 19:18:05,297 [INFO] [Epoch 3 | Batch 600/1808] Loss: 0.7580 | Acc: 90.42%
+2025-11-10 19:18:48,829 [INFO] [Epoch 3 | Batch 650/1808] Loss: 0.7258 | Acc: 90.46%
+2025-11-10 19:19:33,296 [INFO] [Epoch 3 | Batch 700/1808] Loss: 0.6342 | Acc: 90.48%
+2025-11-10 19:20:17,417 [INFO] [Epoch 3 | Batch 750/1808] Loss: 0.6698 | Acc: 90.51%
+2025-11-10 19:21:03,910 [INFO] [Epoch 3 | Batch 800/1808] Loss: 0.7632 | Acc: 90.49%
+2025-11-10 19:21:48,919 [INFO] [Epoch 3 | Batch 850/1808] Loss: 0.7748 | Acc: 90.50%
+2025-11-10 19:22:34,751 [INFO] [Epoch 3 | Batch 900/1808] Loss: 0.7144 | Acc: 90.49%
+2025-11-10 19:23:19,253 [INFO] [Epoch 3 | Batch 950/1808] Loss: 0.7252 | Acc: 90.49%
+2025-11-10 19:24:05,063 [INFO] [Epoch 3 | Batch 1000/1808] Loss: 0.7238 | Acc: 90.51%
+2025-11-10 19:24:49,769 [INFO] [Epoch 3 | Batch 1050/1808] Loss: 0.7102 | Acc: 90.53%
+2025-11-10 19:25:35,729 [INFO] [Epoch 3 | Batch 1100/1808] Loss: 0.6976 | Acc: 90.53%
+2025-11-10 19:26:20,989 [INFO] [Epoch 3 | Batch 1150/1808] Loss: 0.7448 | Acc: 90.53%
+2025-11-10 19:27:07,045 [INFO] [Epoch 3 | Batch 1200/1808] Loss: 0.6576 | Acc: 90.51%
+2025-11-10 19:27:51,163 [INFO] [Epoch 3 | Batch 1250/1808] Loss: 0.6785 | Acc: 90.52%
+2025-11-10 19:28:36,764 [INFO] [Epoch 3 | Batch 1300/1808] Loss: 0.7675 | Acc: 90.52%
+2025-11-10 19:29:20,916 [INFO] [Epoch 3 | Batch 1350/1808] Loss: 0.6323 | Acc: 90.52%
+2025-11-10 19:30:06,263 [INFO] [Epoch 3 | Batch 1400/1808] Loss: 0.7358 | Acc: 90.51%
+2025-11-10 19:30:50,077 [INFO] [Epoch 3 | Batch 1450/1808] Loss: 0.6990 | Acc: 90.52%
+2025-11-10 19:31:35,100 [INFO] [Epoch 3 | Batch 1500/1808] Loss: 0.7179 | Acc: 90.52%
+2025-11-10 19:32:18,841 [INFO] [Epoch 3 | Batch 1550/1808] Loss: 0.7048 | Acc: 90.52%
+2025-11-10 19:33:04,010 [INFO] [Epoch 3 | Batch 1600/1808] Loss: 0.6468 | Acc: 90.53%
+2025-11-10 19:33:47,459 [INFO] [Epoch 3 | Batch 1650/1808] Loss: 0.7671 | Acc: 90.54%
+2025-11-10 19:34:31,370 [INFO] [Epoch 3 | Batch 1700/1808] Loss: 0.7001 | Acc: 90.55%
+2025-11-10 19:35:15,123 [INFO] [Epoch 3 | Batch 1750/1808] Loss: 0.6986 | Acc: 90.56%
+2025-11-10 19:35:58,756 [INFO] [Epoch 3 | Batch 1800/1808] Loss: 0.7309 | Acc: 90.57%
+2025-11-10 19:36:02,618 [INFO] ✅ Epoch 3 | Train Loss: 0.7136 | Accuracy: 90.57%
+2025-11-10 19:49:32,494 [INFO] 📊 Epoch 3 | Val Loss: 1.0580 | Accuracy: 77.01% | F1: 0.7545
+2025-11-10 19:49:33,559 [INFO] 📈 Saved metrics plot to /kaggle/working/Group-Activity-Recognition/src/Outputs/Part1/Metrics_Epoch/metrics_epoch_3.png
+2025-11-10 19:49:33,560 [INFO] 
+🚀 Epoch 5/15
+2025-11-10 19:49:37,842 [INFO] [Epoch 4 | Batch 0/1808] Loss: 0.6330 | Acc: 94.53%
+2025-11-10 19:50:22,027 [INFO] [Epoch 4 | Batch 50/1808] Loss: 0.6469 | Acc: 93.67%
+2025-11-10 19:51:07,613 [INFO] [Epoch 4 | Batch 100/1808] Loss: 0.6824 | Acc: 93.76%
+2025-11-10 19:51:51,061 [INFO] [Epoch 4 | Batch 150/1808] Loss: 0.6271 | Acc: 93.82%
+2025-11-10 19:52:35,021 [INFO] [Epoch 4 | Batch 200/1808] Loss: 0.6790 | Acc: 93.64%
+2025-11-10 19:53:18,433 [INFO] [Epoch 4 | Batch 250/1808] Loss: 0.6080 | Acc: 93.49%
+2025-11-10 19:54:03,270 [INFO] [Epoch 4 | Batch 300/1808] Loss: 0.7090 | Acc: 93.44%
+2025-11-10 19:54:48,750 [INFO] [Epoch 4 | Batch 350/1808] Loss: 0.6746 | Acc: 93.45%
+2025-11-10 19:55:33,989 [INFO] [Epoch 4 | Batch 400/1808] Loss: 0.7737 | Acc: 93.39%
+2025-11-10 19:56:19,815 [INFO] [Epoch 4 | Batch 450/1808] Loss: 0.6856 | Acc: 93.29%
+2025-11-10 19:57:04,719 [INFO] [Epoch 4 | Batch 500/1808] Loss: 0.6762 | Acc: 93.27%
+2025-11-10 19:57:49,337 [INFO] [Epoch 4 | Batch 550/1808] Loss: 0.6717 | Acc: 93.27%
