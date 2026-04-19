@@ -1,0 +1,139 @@
+2025-11-13 23:24:23,930 [INFO] 🚀 Starting experiment: Baseline Four
+2025-11-13 23:24:23,931 [INFO] 📦 Device: cuda
+2025-11-13 23:24:23,931 [INFO] 🔢 Random seed: 42
+2025-11-13 23:24:23,932 [INFO] 
+🚀 Epoch 2/20
+2025-11-13 23:24:36,788 [INFO] [Epoch 1 | Batch 0/68] Loss: 2.2312 | Acc: 21.88%
+2025-11-13 23:26:16,461 [INFO] [Epoch 1 | Batch 50/68] Loss: 1.6945 | Acc: 28.25%
+2025-11-13 23:26:48,645 [INFO] ✅ Epoch 1 | Train Loss: 1.8158 | Accuracy: 34.11%
+2025-11-13 23:28:05,996 [INFO] 📊 Epoch 1 | Val Loss: 1.8182 | Accuracy: 49.96% | F1: 0.4704
+2025-11-13 23:28:07,412 [INFO] 🌟 New best model saved with 49.96% accuracy!
+2025-11-13 23:28:08,058 [INFO] 📈 Saved metrics plot to /kaggle/working/Group-Activity-Recognition/src/Outputs/V2/Metrics_Epoch/metrics_epoch_1.png
+2025-11-13 23:28:08,058 [INFO] 
+🚀 Epoch 3/20
+2025-11-13 23:28:16,627 [INFO] [Epoch 2 | Batch 0/68] Loss: 1.2306 | Acc: 59.38%
+2025-11-13 23:29:42,952 [INFO] [Epoch 2 | Batch 50/68] Loss: 1.1202 | Acc: 66.12%
+2025-11-13 23:30:09,972 [INFO] ✅ Epoch 2 | Train Loss: 1.1915 | Accuracy: 67.70%
+2025-11-13 23:31:10,716 [INFO] 📊 Epoch 2 | Val Loss: 1.4591 | Accuracy: 61.15% | F1: 0.6116
+2025-11-13 23:31:12,135 [INFO] 🌟 New best model saved with 61.15% accuracy!
+2025-11-13 23:31:12,819 [INFO] 📈 Saved metrics plot to /kaggle/working/Group-Activity-Recognition/src/Outputs/V2/Metrics_Epoch/metrics_epoch_2.png
+2025-11-13 23:31:12,819 [INFO] 
+🚀 Epoch 4/20
+2025-11-13 23:31:20,897 [INFO] [Epoch 3 | Batch 0/68] Loss: 0.9801 | Acc: 81.25%
+2025-11-13 23:32:45,596 [INFO] [Epoch 3 | Batch 50/68] Loss: 0.8927 | Acc: 79.35%
+2025-11-13 23:33:12,241 [INFO] ✅ Epoch 3 | Train Loss: 0.9433 | Accuracy: 79.41%
+2025-11-13 23:34:13,072 [INFO] 📊 Epoch 3 | Val Loss: 1.4570 | Accuracy: 64.65% | F1: 0.6448
+2025-11-13 23:34:14,475 [INFO] 🌟 New best model saved with 64.65% accuracy!
+2025-11-13 23:34:15,171 [INFO] 📈 Saved metrics plot to /kaggle/working/Group-Activity-Recognition/src/Outputs/V2/Metrics_Epoch/metrics_epoch_3.png
+2025-11-13 23:34:15,171 [INFO] 
+🚀 Epoch 5/20
+2025-11-13 23:34:22,947 [INFO] [Epoch 4 | Batch 0/68] Loss: 0.7364 | Acc: 90.62%
+2025-11-13 23:35:48,509 [INFO] [Epoch 4 | Batch 50/68] Loss: 0.8756 | Acc: 87.13%
+2025-11-13 23:36:14,458 [INFO] ✅ Epoch 4 | Train Loss: 0.7819 | Accuracy: 87.92%
+2025-11-13 23:37:15,041 [INFO] 📊 Epoch 4 | Val Loss: 1.4651 | Accuracy: 65.62% | F1: 0.6568
+2025-11-13 23:37:16,470 [INFO] 🌟 New best model saved with 65.62% accuracy!
+2025-11-13 23:37:17,097 [INFO] 📈 Saved metrics plot to /kaggle/working/Group-Activity-Recognition/src/Outputs/V2/Metrics_Epoch/metrics_epoch_4.png
+2025-11-13 23:37:17,098 [INFO] 
+🚀 Epoch 6/20
+2025-11-13 23:37:25,063 [INFO] [Epoch 5 | Batch 0/68] Loss: 0.6288 | Acc: 93.75%
+2025-11-13 23:38:50,610 [INFO] [Epoch 5 | Batch 50/68] Loss: 0.7020 | Acc: 92.16%
+2025-11-13 23:39:17,434 [INFO] ✅ Epoch 5 | Train Loss: 0.6961 | Accuracy: 91.78%
+2025-11-13 23:40:18,112 [INFO] 📊 Epoch 5 | Val Loss: 1.3424 | Accuracy: 68.38% | F1: 0.6842
+2025-11-13 23:40:19,519 [INFO] 🌟 New best model saved with 68.38% accuracy!
+2025-11-13 23:40:20,161 [INFO] 📈 Saved metrics plot to /kaggle/working/Group-Activity-Recognition/src/Outputs/V2/Metrics_Epoch/metrics_epoch_5.png
+2025-11-13 23:40:20,161 [INFO] 
+🚀 Epoch 7/20
+2025-11-13 23:40:28,220 [INFO] [Epoch 6 | Batch 0/68] Loss: 0.5956 | Acc: 96.88%
+2025-11-13 23:41:53,768 [INFO] [Epoch 6 | Batch 50/68] Loss: 0.6182 | Acc: 95.96%
+2025-11-13 23:42:20,684 [INFO] ✅ Epoch 6 | Train Loss: 0.6197 | Accuracy: 96.24%
+2025-11-13 23:43:21,003 [INFO] 📊 Epoch 6 | Val Loss: 1.5079 | Accuracy: 66.14% | F1: 0.6583
+2025-11-13 23:43:22,367 [INFO] 📈 Saved metrics plot to /kaggle/working/Group-Activity-Recognition/src/Outputs/V2/Metrics_Epoch/metrics_epoch_6.png
+2025-11-13 23:43:22,367 [INFO] 
+🚀 Epoch 8/20
+2025-11-13 23:43:30,559 [INFO] [Epoch 7 | Batch 0/68] Loss: 0.5847 | Acc: 96.88%
+2025-11-13 23:44:55,549 [INFO] [Epoch 7 | Batch 50/68] Loss: 0.5623 | Acc: 97.49%
+2025-11-13 23:45:21,950 [INFO] ✅ Epoch 7 | Train Loss: 0.5836 | Accuracy: 97.54%
+2025-11-13 23:46:22,208 [INFO] 📊 Epoch 7 | Val Loss: 1.4598 | Accuracy: 67.34% | F1: 0.6736
+2025-11-13 23:46:23,542 [INFO] 📈 Saved metrics plot to /kaggle/working/Group-Activity-Recognition/src/Outputs/V2/Metrics_Epoch/metrics_epoch_7.png
+2025-11-13 23:46:23,542 [INFO] 
+🚀 Epoch 9/20
+2025-11-13 23:46:31,519 [INFO] [Epoch 8 | Batch 0/68] Loss: 0.5326 | Acc: 100.00%
+2025-11-13 23:47:57,394 [INFO] [Epoch 8 | Batch 50/68] Loss: 0.5310 | Acc: 97.55%
+2025-11-13 23:48:23,266 [INFO] ✅ Epoch 8 | Train Loss: 0.5727 | Accuracy: 97.77%
+2025-11-13 23:49:23,722 [INFO] 📊 Epoch 8 | Val Loss: 1.2675 | Accuracy: 70.84% | F1: 0.7081
+2025-11-13 23:49:25,111 [INFO] 🌟 New best model saved with 70.84% accuracy!
+2025-11-13 23:49:25,759 [INFO] 📈 Saved metrics plot to /kaggle/working/Group-Activity-Recognition/src/Outputs/V2/Metrics_Epoch/metrics_epoch_8.png
+2025-11-13 23:49:25,759 [INFO] 
+🚀 Epoch 10/20
+2025-11-13 23:49:33,698 [INFO] [Epoch 9 | Batch 0/68] Loss: 0.5299 | Acc: 100.00%
+2025-11-13 23:50:59,093 [INFO] [Epoch 9 | Batch 50/68] Loss: 0.5559 | Acc: 98.04%
+2025-11-13 23:51:25,634 [INFO] ✅ Epoch 9 | Train Loss: 0.5572 | Accuracy: 97.91%
+2025-11-13 23:52:26,140 [INFO] 📊 Epoch 9 | Val Loss: 1.2748 | Accuracy: 70.77% | F1: 0.7060
+2025-11-13 23:52:27,459 [INFO] 📈 Saved metrics plot to /kaggle/working/Group-Activity-Recognition/src/Outputs/V2/Metrics_Epoch/metrics_epoch_9.png
+2025-11-13 23:52:27,459 [INFO] 
+🚀 Epoch 11/20
+2025-11-13 23:52:35,812 [INFO] [Epoch 10 | Batch 0/68] Loss: 0.5371 | Acc: 100.00%
+2025-11-13 23:54:00,141 [INFO] [Epoch 10 | Batch 50/68] Loss: 0.6061 | Acc: 97.79%
+2025-11-13 23:54:26,631 [INFO] ✅ Epoch 10 | Train Loss: 0.5510 | Accuracy: 98.14%
+2025-11-13 23:55:27,063 [INFO] 📊 Epoch 10 | Val Loss: 1.3338 | Accuracy: 69.43% | F1: 0.6957
+2025-11-13 23:55:28,374 [INFO] 📈 Saved metrics plot to /kaggle/working/Group-Activity-Recognition/src/Outputs/V2/Metrics_Epoch/metrics_epoch_10.png
+2025-11-13 23:55:28,374 [INFO] 
+🚀 Epoch 12/20
+2025-11-13 23:55:35,734 [INFO] [Epoch 11 | Batch 0/68] Loss: 0.5159 | Acc: 100.00%
+2025-11-13 23:57:00,855 [INFO] [Epoch 11 | Batch 50/68] Loss: 0.5446 | Acc: 98.28%
+2025-11-13 23:57:27,078 [INFO] ✅ Epoch 11 | Train Loss: 0.5401 | Accuracy: 98.42%
+2025-11-13 23:58:27,622 [INFO] 📊 Epoch 11 | Val Loss: 1.3399 | Accuracy: 68.90% | F1: 0.6848
+2025-11-13 23:58:28,986 [INFO] 📈 Saved metrics plot to /kaggle/working/Group-Activity-Recognition/src/Outputs/V2/Metrics_Epoch/metrics_epoch_11.png
+2025-11-13 23:58:28,986 [INFO] 
+🚀 Epoch 13/20
+2025-11-13 23:58:36,923 [INFO] [Epoch 12 | Batch 0/68] Loss: 0.5262 | Acc: 100.00%
+2025-11-14 00:00:03,131 [INFO] [Epoch 12 | Batch 50/68] Loss: 0.5753 | Acc: 99.20%
+2025-11-14 00:00:29,398 [INFO] ✅ Epoch 12 | Train Loss: 0.5355 | Accuracy: 98.88%
+2025-11-14 00:01:31,754 [INFO] 📊 Epoch 12 | Val Loss: 1.3252 | Accuracy: 68.83% | F1: 0.6901
+2025-11-14 00:01:33,141 [INFO] 📈 Saved metrics plot to /kaggle/working/Group-Activity-Recognition/src/Outputs/V2/Metrics_Epoch/metrics_epoch_12.png
+2025-11-14 00:01:33,141 [INFO] 
+🚀 Epoch 14/20
+2025-11-14 00:01:41,813 [INFO] [Epoch 13 | Batch 0/68] Loss: 0.5498 | Acc: 100.00%
+2025-11-14 00:03:10,223 [INFO] [Epoch 13 | Batch 50/68] Loss: 0.5037 | Acc: 97.79%
+2025-11-14 00:03:37,456 [INFO] ✅ Epoch 13 | Train Loss: 0.5572 | Accuracy: 97.44%
+2025-11-14 00:04:39,380 [INFO] 📊 Epoch 13 | Val Loss: 1.2244 | Accuracy: 70.92% | F1: 0.7127
+2025-11-14 00:04:40,807 [INFO] 🌟 New best model saved with 70.92% accuracy!
+2025-11-14 00:04:41,448 [INFO] 📈 Saved metrics plot to /kaggle/working/Group-Activity-Recognition/src/Outputs/V2/Metrics_Epoch/metrics_epoch_13.png
+2025-11-14 00:04:41,449 [INFO] 
+🚀 Epoch 15/20
+2025-11-14 00:04:49,354 [INFO] [Epoch 14 | Batch 0/68] Loss: 0.5509 | Acc: 100.00%
+2025-11-14 00:06:17,046 [INFO] [Epoch 14 | Batch 50/68] Loss: 0.5060 | Acc: 98.04%
+2025-11-14 00:06:44,506 [INFO] ✅ Epoch 14 | Train Loss: 0.5419 | Accuracy: 98.28%
+2025-11-14 00:07:46,536 [INFO] 📊 Epoch 14 | Val Loss: 1.2550 | Accuracy: 71.22% | F1: 0.7138
+2025-11-14 00:07:47,953 [INFO] 🌟 New best model saved with 71.22% accuracy!
+2025-11-14 00:07:48,582 [INFO] 📈 Saved metrics plot to /kaggle/working/Group-Activity-Recognition/src/Outputs/V2/Metrics_Epoch/metrics_epoch_14.png
+2025-11-14 00:07:48,583 [INFO] 
+🚀 Epoch 16/20
+2025-11-14 00:07:56,597 [INFO] [Epoch 15 | Batch 0/68] Loss: 0.5100 | Acc: 100.00%
+2025-11-14 00:09:24,544 [INFO] [Epoch 15 | Batch 50/68] Loss: 0.5258 | Acc: 99.02%
+2025-11-14 00:09:51,419 [INFO] ✅ Epoch 15 | Train Loss: 0.5249 | Accuracy: 98.88%
+2025-11-14 00:10:52,792 [INFO] 📊 Epoch 15 | Val Loss: 1.3760 | Accuracy: 67.71% | F1: 0.6796
+2025-11-14 00:10:54,149 [INFO] 📈 Saved metrics plot to /kaggle/working/Group-Activity-Recognition/src/Outputs/V2/Metrics_Epoch/metrics_epoch_15.png
+2025-11-14 00:10:54,149 [INFO] 
+🚀 Epoch 17/20
+2025-11-14 00:11:02,090 [INFO] [Epoch 16 | Batch 0/68] Loss: 0.5012 | Acc: 100.00%
+2025-11-14 00:12:30,177 [INFO] [Epoch 16 | Batch 50/68] Loss: 0.5021 | Acc: 99.63%
+2025-11-14 00:12:56,705 [INFO] ✅ Epoch 16 | Train Loss: 0.5237 | Accuracy: 99.26%
+2025-11-14 00:13:57,615 [INFO] 📊 Epoch 16 | Val Loss: 1.3069 | Accuracy: 69.57% | F1: 0.6965
+2025-11-14 00:13:58,983 [INFO] 📈 Saved metrics plot to /kaggle/working/Group-Activity-Recognition/src/Outputs/V2/Metrics_Epoch/metrics_epoch_16.png
+2025-11-14 00:13:58,983 [INFO] 
+🚀 Epoch 18/20
+2025-11-14 00:14:06,447 [INFO] [Epoch 17 | Batch 0/68] Loss: 0.5268 | Acc: 100.00%
+2025-11-14 00:15:33,156 [INFO] [Epoch 17 | Batch 50/68] Loss: 0.5437 | Acc: 98.35%
+2025-11-14 00:15:59,821 [INFO] ✅ Epoch 17 | Train Loss: 0.5421 | Accuracy: 98.42%
+2025-11-14 00:17:00,691 [INFO] 📊 Epoch 17 | Val Loss: 1.3023 | Accuracy: 69.95% | F1: 0.6990
+2025-11-14 00:17:02,181 [INFO] 📈 Saved metrics plot to /kaggle/working/Group-Activity-Recognition/src/Outputs/V2/Metrics_Epoch/metrics_epoch_17.png
+2025-11-14 00:17:02,181 [INFO] 
+🚀 Epoch 19/20
+2025-11-14 00:17:09,962 [INFO] [Epoch 18 | Batch 0/68] Loss: 0.4972 | Acc: 100.00%
+2025-11-14 00:18:37,218 [INFO] [Epoch 18 | Batch 50/68] Loss: 0.5114 | Acc: 97.49%
+2025-11-14 00:19:04,103 [INFO] ✅ Epoch 18 | Train Loss: 0.5566 | Accuracy: 97.58%
+2025-11-14 00:20:04,963 [INFO] 📊 Epoch 18 | Val Loss: 1.4029 | Accuracy: 66.82% | F1: 0.6656
+2025-11-14 00:20:06,311 [INFO] 📈 Saved metrics plot to /kaggle/working/Group-Activity-Recognition/src/Outputs/V2/Metrics_Epoch/metrics_epoch_18.png
+2025-11-14 00:20:06,311 [INFO] 
+🚀 Epoch 20/20
